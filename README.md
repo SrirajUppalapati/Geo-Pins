@@ -1,10 +1,13 @@
-GeoPin
-This project is a web application that allows users to add the vacation pins on a map.
+# GeoPin
 
-Features
-Interactive Map: Display a map.
-Add Pins: Users can add pins to mark specific locations on the map.
-Pin Information: Each pin can have additional information such as title, description, and maybe an image.
+GeoPin is a web application that allows users to mark vacation spots on a map with pins, providing additional details for each pin.
 
-Technologies Used
-Frontend: React
+## Features
+
+- **Interactive Map:** Display a map interface where users can interact and view marked locations.
+- **Add Pins:** Users can add pins to mark specific vacation spots on the map.
+- **Pin Information:** Each pin can include additional details such as title, description, and possibly an image for enhanced context.
+
+## Technologies Used
+
+- **Frontend:** React for building the user interface.
